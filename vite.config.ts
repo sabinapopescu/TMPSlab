@@ -9,7 +9,7 @@ export default defineConfig({
     port: 8080,
   },
   plugins: [react()],
-  base: '/maya_pearl/',
+  base: '/TMPSlab/',
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"),
